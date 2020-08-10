@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10082a44-8216-451c-b4c9-4da17e55d672" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCDxB7jqgRipcVEJiIYQ1hZvsT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Desktop/Proj 3/Project 3" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.policy_iteration">
+    <configuration name="policy_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/policy_iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="policy_iteration_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/policy_iteration_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="value_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/value_iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="value_iteration_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/value_iteration_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.policy_iteration" />
+        <item itemvalue="Python.value_iteration" />
+        <item itemvalue="Python.readfile" />
+        <item itemvalue="Python.policy_iteration_new" />
+        <item itemvalue="Python.value_iteration_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10082a44-8216-451c-b4c9-4da17e55d672" name="Default Changelist" comment="" />
+      <created>1586230925757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586230925757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="581" y="186" key="FileChooserDialogImpl" timestamp="1586567325527">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="581" y="186" key="FileChooserDialogImpl/0.0.1603.862@0.0.1603.862" timestamp="1586567325527" />
+    <state width="1581" height="251" key="GridCell.Tab.0.bottom" timestamp="1586567334839">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1581" height="251" key="GridCell.Tab.0.bottom/0.0.1603.862@0.0.1603.862" timestamp="1586567334839" />
+    <state width="1581" height="251" key="GridCell.Tab.0.center" timestamp="1586567334839">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1581" height="251" key="GridCell.Tab.0.center/0.0.1603.862@0.0.1603.862" timestamp="1586567334839" />
+    <state width="1581" height="251" key="GridCell.Tab.0.left" timestamp="1586567334838">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1581" height="251" key="GridCell.Tab.0.left/0.0.1603.862@0.0.1603.862" timestamp="1586567334838" />
+    <state width="1581" height="251" key="GridCell.Tab.0.right" timestamp="1586567334839">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1581" height="251" key="GridCell.Tab.0.right/0.0.1603.862@0.0.1603.862" timestamp="1586567334839" />
+    <state width="1581" height="251" key="GridCell.Tab.1.bottom" timestamp="1586567334840">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1581" height="251" key="GridCell.Tab.1.bottom/0.0.1603.862@0.0.1603.862" timestamp="1586567334840" />
+    <state width="1581" height="251" key="GridCell.Tab.1.center" timestamp="1586567334840">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1581" height="251" key="GridCell.Tab.1.center/0.0.1603.862@0.0.1603.862" timestamp="1586567334840" />
+    <state width="1581" height="251" key="GridCell.Tab.1.left" timestamp="1586567334840">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1581" height="251" key="GridCell.Tab.1.left/0.0.1603.862@0.0.1603.862" timestamp="1586567334840" />
+    <state width="1581" height="251" key="GridCell.Tab.1.right" timestamp="1586567334840">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1581" height="251" key="GridCell.Tab.1.right/0.0.1603.862@0.0.1603.862" timestamp="1586567334840" />
+    <state x="309" y="74" key="SettingsEditor" timestamp="1586231267746">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="309" y="74" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1586231267746" />
+    <state width="809" height="438" key="XDebugger.FullValuePopup" timestamp="1586473652838">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="809" height="438" key="XDebugger.FullValuePopup/0.0.1603.862@0.0.1603.862" timestamp="1586473652838" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1586546724089">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1603.862@0.0.1603.862" timestamp="1586546724089" />
+    <state x="393" y="90" key="scopes" timestamp="1586502034078">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="393" y="90" key="scopes/0.0.1603.862@0.0.1603.862" timestamp="1586502034078" />
+  </component>
+</project>
